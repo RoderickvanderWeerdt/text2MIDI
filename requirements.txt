@@ -1,0 +1,7 @@
+scipy==1.1.0
+python-midi==0.2.4
+gensim==3.4.0
+numpy==1.14.3
+tensorflow==1.8.0
+magenta==0.3.7
+Keras==2.1.6
